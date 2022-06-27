@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/naman312010/banking-staking#readme",
   "devDependencies": {
+    "@openzeppelin/contracts-upgradeable": "^4.6.0",
     "@openzeppelin/truffle-upgrades": "^1.15.0",
     "truffle": "^5.5.19"
   },
