@@ -5,16 +5,21 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol";
 
 contract BankV1 is Initializable {
+    
     ERC20 rewardToken;
-    uint256 timePeriod;
-    uint256 startTime;
+    uint256 public timePeriod;
+    uint256 public startTime;
     uint256 stakingPool;
     uint256 stakers;
     address owner;
     uint256 r1;
     uint256 r2;
     uint256 r3;
+
     mapping(address => uint256) public stakedAmount;
+
+    event Deposited(address indexed user, uint256 indexed amount);
+    event Redeemed(address indexed user, uint256 indexed amount);
 
     modifier onlyOwner() {
         require(msg.sender == owner);
@@ -32,10 +37,6 @@ contract BankV1 is Initializable {
         rewardToken = ERC20(rewardContract);
         startTime = block.timestamp;
         timePeriod = T;
-        require(
-            rewardToken.balanceOf(address(this)) >= rewardPoolSize,
-            "Not enough reward tokens available"
-        );
         r1 = rewardPoolSize / 5;
         r2 = (rewardPoolSize * 3) / 100;
         r3 = rewardPoolSize / 2;
@@ -53,7 +54,7 @@ contract BankV1 is Initializable {
             rewardToken.balanceOf(msg.sender) >= amount,
             "Not enough reward token balance"
         );
-        rewardToken.approve(address(this), amount);
+        require(rewardToken.allowance(msg.sender, address(this)) >= amount,"Funds not approved");
         bool transferred = rewardToken.transferFrom(
             msg.sender,
             address(this),
@@ -64,29 +65,30 @@ contract BankV1 is Initializable {
         }
         stakedAmount[msg.sender] += amount;
         stakingPool += amount;
+        emit Deposited(msg.sender, amount);
         return (transferred);
     }
 
     function calculateReward(address staker) internal returns (uint256) {
-        uint256 reward = 0;
+        uint256 reward;
         uint256 availableRewardPool;
         if (
             block.timestamp > (startTime + 2 * timePeriod) &&
             block.timestamp <= (startTime + 3 * timePeriod)
         ) {
             availableRewardPool = r1;
-            reward +=
-                stakedAmount[staker] * (availableRewardPool /
-                stakingPool);
+            reward =
+                (stakedAmount[staker] * availableRewardPool) /
+                stakingPool;
             r1 -= reward;
         } else if (
             block.timestamp > (startTime + 3 * timePeriod) &&
             block.timestamp <= (startTime + 4 * timePeriod)
         ) {
             availableRewardPool = r1 + r2;
-            reward +=
-                stakedAmount[staker] * (availableRewardPool /
-                stakingPool);
+            reward =
+                (stakedAmount[staker] * availableRewardPool) /
+                stakingPool;
             if (reward <= r1) r1 -= reward;
             else if (r1 == 0) r2 -= reward;
             else {
@@ -95,9 +97,9 @@ contract BankV1 is Initializable {
             }
         } else {
             availableRewardPool = r1 + r2 + r3;
-            reward +=
-                stakedAmount[staker] * (availableRewardPool /
-                stakingPool);
+            reward =
+                (stakedAmount[staker] * availableRewardPool) /
+                stakingPool;
             if (reward <= r1) r1 -= reward;
             else if (r1 == 0 && r2 == 0) r3 -= reward;
             else if (reward <= (r1+r2)){
@@ -132,7 +134,9 @@ contract BankV1 is Initializable {
         stakedAmount[msg.sender] = 0;
         stakers--;
         stakingPool -= amount;
-        return (rewardToken.transfer(msg.sender, amount + reward));
+        bool transferred = rewardToken.transfer(msg.sender, amount + reward);
+        emit Redeemed(msg.sender,amount + reward);
+        return (transferred);
     }
 
     function withdrawRemaining() external onlyOwner {

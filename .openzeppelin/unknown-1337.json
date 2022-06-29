@@ -1,0 +1,1867 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0x9cE5817c5B579E81Ec41ee47e7e64e3791e547b2",
+    "txHash": "0xcc56dd2a450c449e0d749e09bd8ffaf53a695ca07e7cd472fe5a8db2b9cd233b"
+  },
+  "proxies": [
+    {
+      "address": "0x514240E9e987494aC0ACE48eCd070d8583Ad858b",
+      "txHash": "0xfaad909f873501bfdfbdae8c4c62c302dd174e6065b4dfdbd8d1d04062a1c811",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xf1CdD6C311Ec946C0a2B890961915A5c444bd54a",
+      "txHash": "0x9143ef093de1005c4be02d53461b9c1a6cfb0fda4789d3d32bce36e1d0a4fdac",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xECed52B30a93E940A6b5c2FbF07Bf40E7c2Ab0b9",
+      "txHash": "0x57783cf12808507df62428f49a1789c09491b5221474483b9a3fb7bd81bcdb3f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xf8ee3Aa6B29F49527bDf592654156F75DAcaB028",
+      "txHash": "0x5b4d02a12b2e3a4041af968b7248648b92ba8626c4f3552b801f9ef21449087f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x7Dce7fa1A5A8A89b7928D41DD343CaF28663209d",
+      "txHash": "0xf1a41837432f811272c69e3713bf6a0831d6ac11511c4eb5eb46bb1dc01c7feb",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x2e55e60cF2FB29A2391175728D3DA0f63DC18462",
+      "txHash": "0xcf01d3d8eb39e356d577b56fe34092f1d61476bb719f7a48f0fae2a570ed5096",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xC3Ff41ac1B4E38c8E0e54d181BCcbee65805D41B",
+      "txHash": "0xb260a45b3ba062c685613d553bf8a03bc166d3b917c9ef3c65037d56ccaf5d7a",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x1D81712e486f425E8fb400C59e1aDACCE8a9B379",
+      "txHash": "0x4724eda202666ae99eb229055c5e279ecfb4b3a6a7951a2e4d3f91ac7e4664d7",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x36d4Ed87DCD9337596A749C2F20556c72E55b955",
+      "txHash": "0xfcc406197d62ddc2990fa721017c34fbaad7a6f574cd8461f3b0a94eee449a37",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x616e36442d1fc94215486Dc9813bFb25BdB8993F",
+      "txHash": "0xaeed61255fce06de98f7a5854fffea75142f62e3150dc3a2ea514c78a9cfde7b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x1245Ee2C0cf23a42005aB897dc41DF0438110Eb6",
+      "txHash": "0xfc7ecacd2a7e1e45d4c95a713d9f05a9ff8d4ff63f0f496f38d29e3c2810804a",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x40361c48C8b8107FC45e7cb64a6AF1D87190733D",
+      "txHash": "0xe8b4a8b0d481413ee363a580bf2c42d967ef951df73c30b50bcb46ec6ba02057",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x77d16DCeaA567C828fc5AE44D3b55C18b97A240C",
+      "txHash": "0x34fd6e65514f41c20b94af45ce203c85c503db6f892ac0bb78ef15793c0407ac",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xcB20DA848aCFd49Ee4be3aa45a23B0d4EB9f1D2C",
+      "txHash": "0x942a69176e834eaaa3d4fcc70215b6eca9d41449197e9dd997f1969f5734d313",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x980a10dF291d20CA161Cff878a9bD96535018c21",
+      "txHash": "0xc352ebc201d59e126250923684bc5e33a1f3075fc6301db38cac74c7ad9e5dd3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x5eA2CB127aed51B29c4b02bcb864bd6e34638173",
+      "txHash": "0xa6b09e27abf5dffd96ce3bfe30676c0cb6c7464e457c2ed665e00136df4b58e1",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x1Eac34785aa749920C7cAED04e3f8d20e64e0B28",
+      "txHash": "0xb5463d51b2961453099a5434a53d4b062115703382f2524ca19080c1098bb5f6",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x1d9Ab56639D2F6Df1C95105289BEc6d69e58D215",
+      "txHash": "0x7eb321d7655125d955a1794d1916f2da3cbba0aa9b9749ece56feed66cfe1691",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x10aEEb4D0bf5c045Ee82514b34794944A2278911",
+      "txHash": "0xdf1134194b5208a05c708b8982325582c47b5eb84720418ad5fee15bbd17860d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x5F4a91922d6fa61f0886D6C83BFFcf12CBDBD6ce",
+      "txHash": "0x8d87b9e2d3190bdcbc7618f85b4b4f32aef786f690adb313f99dc961de34cb2d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x02e9D4F61c7F9e3547581f52210A871E06ac40f8",
+      "txHash": "0xc56aff8f24897f1d2a5a87e78f2ce133dafdf38bc07032be48ab26b976c99bdb",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xAa8dd4C7296024ECd445DcA935C4DeDe9F155FD5",
+      "txHash": "0x610492191983cc4f9e4735cf584980400ac0e930ee9da7be23a9c613f2000183",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x5C4a0C7FB7162bA2c3d82Fd463c256534908aAF1",
+      "txHash": "0x1fae08f88283f773e845226f5f84c6b15159c8998dd07af08059c248dc4326c5",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xbd1E8BbfF160948B1B2E125075a68FE11062bddd",
+      "txHash": "0x2aa0cd0fe016a0d2776d84307e1c6b160ec442d396f48299888e90afb6e802aa",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xeb9f28841DdB1CC41153969bEEfDb5c06D5ddCb6",
+      "txHash": "0xd90c80290b20a3c60e8e468775535976fd7555849cc6cc109928b455a7c677c4",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x8211f8f76a162bB051243E5740350C1121bB22F0",
+      "txHash": "0x03826ab8fabfe3211b06124f039a8765fa15e82707dd9658a497c0000e6d6b43",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x8B86c382CAD7072F325Ee8c8667FC71B825626E9",
+      "txHash": "0x1c9101779a3c4dd7c2288daea02d3a8ef749414cc98af5faa7eb51946a193811",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x77F8E2F028112e464bf7Be9C9488dAaE21AEd62C",
+      "txHash": "0x43f637a27f20d3011706d8b46cc4d642ab2ba8600d2dee6f53bec5ebc9d8486d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x1E7fF2CfcDb3FadC7991685A6716395C4BA8b34c",
+      "txHash": "0x5635227cde4722f0b1e5f4e57006ba61d9a59f61070da85b340fa150261bed47",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xef502f5A42Ec2a4Ed372ecDa7695E171f7fcD978",
+      "txHash": "0x48e8d894a1ff18319a440c55a251a01e01d435e0504dbcc79d103b6260c339f2",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xAa0bC1e654104217D42125B71609620015Ef61b1",
+      "txHash": "0x1e12ccd6bb42fda6382dce9a065f75856fa9bf191e8b8e9fcb27497fad0cc3d8",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xc96e854AEe9EEFfc35812a81EF80f9b9Adc00a0E",
+      "txHash": "0xba1a35487b5f8fb49e3647b7f7f4c316ede358c47177865e236791dfa13544a0",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x23735deCf744e3dA82311F2CD4c12029ebeD88eA",
+      "txHash": "0x24d20dbe2a9d06594317a5c16bdd831d36865a5b1380b92a109069d103257673",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x2fcF93F095e336b54C526cC0A38D5aFE9C4e2A03",
+      "txHash": "0x42ec14e5bfc898e77d0d19ccd178ca07216403c055b8cf4e0740518977670c12",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x0A1b37940E4Bb4BF3cD693630e7B656E19943ff9",
+      "txHash": "0x26e49897952a505cbf3bba498a7dede27e5947c68b4da597773ba28397a5eea3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x408D6E200B49d466bd541988DDEfc911403313c8",
+      "txHash": "0x1ad69c0cf207ca44a2ed0f11a0b324918bcd8ef7b71f79a526d27cc88fb263bd",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xf962D300337e8846c3D304D58093BaF0650ad643",
+      "txHash": "0xa51de52ae23762f11968f1ab6ede18ec28342fc04c60dc3e2f5503363eac5df0",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x05E761039f053c907f2860e13B0e79E329BC8352",
+      "txHash": "0xedde8d1e7d159a13f8c8a30885ce8ac023eb13034d35c59e2ee60e678b332f5e",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x491B10b722eB5d169932398461C7FD2aAcDd09AC",
+      "txHash": "0x93ccea034f041d7302a83b94ff286124176a2108a8c1bbcda11e8ea41d73b063",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xbDC3D4468dA65A422B96dE15e810338e6811f821",
+      "txHash": "0x7c1303c7ac95d7c0f8ad3d4acb3e064c0a271b8e6f9010a5a3dea5e2fd587e7e",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x6c9bb894ebfc8ACA02d275b66479A8D3e122dcEf",
+      "txHash": "0x016baf0cb39055a37390cf4cc6876f344fd7f0d73524961b36c2a10f660975a8",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x51cD74D1DD47002CaEB7F7f9b0071aD5bF177a29",
+      "txHash": "0x70f92484171996a7749fd8c8f0c609b05065e9be2eb17c1cf1a1f4a6e1e9c3b8",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x32e5FDa47D1E4Cd4bF1D8cD783b9c3FC1Ca2F6c8",
+      "txHash": "0x9d9353269629155d129a6e1bc3a0599bbc732018331786c1bfc7ae37b3aff08e",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4422966B992b9b4E03c44002E3036ea8721c21cD",
+      "txHash": "0xe3b4057d5f7cd8bddb18694d42aa131a84fb32cddeb609c279f175249e95e10e",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x6863ADC58c6e3Ac17c168Ba54AaD3Fd97673d61B",
+      "txHash": "0x8f46c63ebb7fa5289453d466a1bdb1a0ac6c35a3d400cb42eba5066b823decf4",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xa247277E53a9E6624F8f6e3dCe1D908C04D79e9D",
+      "txHash": "0xda67de77e584ff418060653e544f8a5982108a821417c8a9643a1bd29f4a4a50",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x3185bD23803262635F67890579D8EA755098D21C",
+      "txHash": "0x1d5e2c79915c2e2954d161109280a0c0b01aef6901e3f4db64c4b8e7369faae8",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xdCBe11661FA9FE4f7b181dDA01F69E14c5BbFc4c",
+      "txHash": "0x277375a295e9c081151bab45e58c1c0a6143a44dad29bd6a6675ea3e63754c28",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xAfE33e7635a8cd643Ba7f6aAC47c5a564d4e484A",
+      "txHash": "0x47809d7bf9d76de5e4ad9d098270469dc30646b9d66b7e9f0bbf295fa8073ff1",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xb7ad4f0b47662C4a408062Fcc6225f13F742c4dB",
+      "txHash": "0x995789cef17e59e39814fe0e378ff0264cddb8bb1cb30c9b3ae17ade9664360b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x67e46B89fD1FDcF8856e6595f16506b9930462Ef",
+      "txHash": "0xc7bee6c41d2db387e41c83ae0652e696acf22a02bc0651b39a98d139cc3a1da0",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xB87245dE6339257bc2dda972514DfC3b9D6E7a38",
+      "txHash": "0x5b8fa62b6bf6d81d5387f083d380d23b3d355c55ae0ead24a7a63e129aed6bba",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x3294256ca1Aa5aF2b36f0f014b2989A7A106c315",
+      "txHash": "0x31729ccaa0a864b77df92ea49d6d5a2c86fe6ab42a00ed9a99914b503562d511",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x178D524e3ABa7B22E35f7401eBc65246b585DF08",
+      "txHash": "0xda048146e512b0146ce3d655c23f44ccfdea36909be1bd0ac5b26ed7351b7087",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x9451a3935F4493efbBb7619A4efB9E42cb4555F5",
+      "txHash": "0x7c86410e5af324733582616f9dbddd1d4d4cfb9e96773939872c214b4390f24c",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xf180e17EbEAe503C59630D66DC468d02f8e13eFf",
+      "txHash": "0xb3c0d07588b8d75be087ef6309807e73d4193261d95d3062e8133260557dc831",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xa033A793F9edd2B359f822182b6DB5c18F8c9EcB",
+      "txHash": "0x6a562c92cb7e62b1ce3ba5f4364cdd6490c80f06d0ae1fbd13d787358dfc37b5",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xE4A3d94e8c63d42B6055ea5AD9D3854e51FC4b94",
+      "txHash": "0x79181a820d178cc606438f667ff3f7347f2d67a8813632b4b16e4baa339cbd55",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x5D8edf148b205EDa8E336fd7Ab153Ad7Fc0280af",
+      "txHash": "0x20e1979ff1c7d221a5e12dcf05c6531b7de72ef8b74a51574ecbea823d276771",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x0C2d37252066591D6AA23477c1809bE47fd2A866",
+      "txHash": "0xa1d76ddeb6641b488dee291d21cd6efe868490a2d40d32aa352faa97c5e4a001",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xF564e6189f481e5644eA242217ef58fC5cB60dBD",
+      "txHash": "0x1cb6900e1b3f4b378693b5fe87e8fa11c021dab33712496b728122e9f6c0c333",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x12e824A68FA03E3a8Aa310790e32A95018aAbb4c",
+      "txHash": "0xda3bb97d7cf955ad61d0fde2454d633073328db73d493c8325c65a90267957c5",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x2a4693fcaB5Faa07705C0B85EbAD39F7D16EFb26",
+      "txHash": "0xae5a5e3b966ab62106c660630d38458394e9e19994ed604e6704930589deae30",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x94Ecfc5a84a9DDbd7e47485CDd8883190e30362e",
+      "txHash": "0x50ab40e76319dcc4b9454fa8fd5b90e2e20df28016661dde1017e233e96a8641",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xc8BDF6f4D3022B4A3E6C5827169429dA287Efc9A",
+      "txHash": "0x37c9ecf6d32437e40218f511cb07982b35101ff524461cb5c311c141c7f70576",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xa37df57A598a83B5F734841B5F1c511467658F57",
+      "txHash": "0x7da06e065082e6b330051e8e80a50c19e5c812ad7a27af19fb2a882d2c3a2094",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xF5BfF664B53EdAA46Ce4b8A4c55f188035A18312",
+      "txHash": "0x24fcda9b7f4ecaf36c4b6942f22d3df548a280c64d6ff3c9347ee57f4890b0f8",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xbD1c003Ceb4A221505e6caEf0ae695B6c35C0203",
+      "txHash": "0xcee6d2f6a1ecf41c1d40693ae20ad4b34dbb864f9543dba925d347661ebbc7e3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xfc838F8C5802F51fEAe21Ae329119bE24D6d38Ed",
+      "txHash": "0xa6596702c877c8b0513ed94fc1971a1d91ae72bcf9432eed3274391f0fe2183d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x58f38F5E2CC96ebc06a58Bf2AF7653Fb1B4fa93b",
+      "txHash": "0xd01644b2fc0adda02180028151a95affbb8e0b98f96eca1eb5be3f63ef2a7d83",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xD409AE0FBeb15c3351a30A4d3dd86aF529075e5c",
+      "txHash": "0x9845dfd50c11e989486608c46066109e8ab06afc2617c80f1423115930d85b39",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x6EcEB293Dc05648Bc7a6a54E69A5edf4b636A435",
+      "txHash": "0x3cec4a3d3277ebc2fe9b3ec4f14ef8a7c31d8c807489cec40e6a4f21c9347508",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x11eB1EE863CCB8B4c492F87B7B2EF9464a9e8dba",
+      "txHash": "0x8ffa2f5fa564af195b4f8e6745dc60ad1d7e0d28755b510ebfb066d4aef2dab9",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x377d995CdC5A661bB23a80B7f660BD4829d042Bd",
+      "txHash": "0xd631c139a22c555cce9e5c024cb8b914f6a29dc4ee10c5f7647afb8d536cf0c5",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xEA18132A791744B085820098C5093c5358d893f5",
+      "txHash": "0x132bb70377eadb88dc3c1caaca2da89d0bf4907b79d7549b78d901b7f932e082",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x9DCEEe2Ac96d4cE07ACfd7381AaC0B338cE9A6c8",
+      "txHash": "0x9931686a1d3a8b1cdd14e8d5eb9ca3f5f25b1507fe13d9141d37f1283ff2e235",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x95A5E42CB1b1Bd6443E1308448385BC525E0C94b",
+      "txHash": "0x86e69ca310ee49957b8bdf013c10f771c930770bfdc3c57c2825c4d876546ccc",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x84b082E6c1ac037A41aC64477B0e4E2fE6cd334D",
+      "txHash": "0xed084d0b08ba0fbdefff1a0a3666d23c1601fffb381720e6ea514656f7dc748f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x583ed36aA65e9c8d0b96F2573B09730C0235fC95",
+      "txHash": "0xda20ff1f68a5cdb948051abe4c27887ce24d23270a470741aa9173134d6a594b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xB870ae2B50dD0455bEA3E9c529c4124De6161439",
+      "txHash": "0xddab07e8e037469cb9d9112d06d3d1810df87b9b6a983450ae3750e4b3a88400",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xB49C58342aa10429d46BBa3822Fef386A43fCdC5",
+      "txHash": "0xfb993404a375b06c706e5694326fef9c6fb17be61d8485dd0b8398feec36bec0",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x6566488C03C05CEEC83A0c354d32aA7dDf02c91d",
+      "txHash": "0x95b70f4195588a0beb45446bced359dedf9ada892f512f36767f7a9f673c536e",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xA5bb07C62EF4fD0BEDf08363a9092fe4605b5861",
+      "txHash": "0xa0099cf8fcb02cb5c885aa078dd033fa1bff56f8234227dfa7925232194c6333",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xDc68A61044c20a45Ed2a27310c4c55eAc498E296",
+      "txHash": "0x8b177c98c45bebe1adf728f3a10d10d802482a13ed21f95b06990042c0beac64",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x57b14dc3F7FaB8cA2fe1F2DfD74610Fd2E37A002",
+      "txHash": "0x434c8a8fecf7ca2ae0edfe6e623f679ea3fd4c49be4973510eebce49ab111d23",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xf6041cf8a0909743C7ecB64A7B7a58917447D85c",
+      "txHash": "0x999c545b9bfb09248c088f6c6685c6eb8155ef8c49de641cf743fd4ffa4f98a3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x63fB6FDb345B33bAd0C899193B2E0322e2f1FC80",
+      "txHash": "0xcd664960cc59480e1b928ab96cb820efe64aa86c81f2a59a8186c5c6817df76c",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x9C5D280948f9cA7B3D1F75A0E6ed6dF8B77e994e",
+      "txHash": "0x55089b349cec3a34a160b9064a6c52df49630258207838e4d3c976f419c9faed",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xCB94698831035ff362E23E392BE588cd0CDEE7a7",
+      "txHash": "0xa7057e6c5ed0754fa83ace413a79db233d340542cf0be0b5ba622450595e49c4",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x775cF6BCbcB4Bd5F7aC4267C93b4bDB0600105B1",
+      "txHash": "0x51d50d2e92e474c79f076ebe25bc36caa0b8d734d2a7c9e111a900ba78076b5d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xe04cD479B628EA3073bF838b7130fa042C3d3207",
+      "txHash": "0xd94cf04bf04925927b019c8a3b5b91b4eb310d80a745797021e31fbde0399652",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x45ECE10F320AFA5968Ab7fA74DC65c2DCACD02cE",
+      "txHash": "0x016991b306b110fd2d70b1640214ce470571eb2682368e2a25e12a94477b0b21",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x289EA5bFb75b7b96f8f1458538cc4d854DdB24F0",
+      "txHash": "0x0ecd6498a7f388586cfddbe62978e73ffb150c1e2eb4484d2db7bac4dd2c00be",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xCF51c7709549469a1C0d9EBecA51B033003f382f",
+      "txHash": "0x43c56a0f6e3acb0bb2518f5e24a3c1b43d01857fcc9f31c5cb8ed025987e2e39",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x36523afe370E2Cb621189597207724b7C4a80a4a",
+      "txHash": "0x26b5ef2423387dac96444f65e07f52372b20720ed1f88d089bb3aef71f1e206d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xbd3FE3136C9b9ef1d41324A9A7D0335C69Aad7C2",
+      "txHash": "0x4e0da1521c80769b37feb02836027e80800b88a560b3eebc789da3c113509e5c",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x7d6A1B7D504E46A257A5b18bc2509594ACd0f232",
+      "txHash": "0xa3df5af056d38f78b0d061d8494e83116df8f9f7fcb23fb0344f595d5d5323d1",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x144dE4c419ffd66b14967C2dEfeA0f9c68Cfbd58",
+      "txHash": "0x83b2810bf733d5f8b80227fb01da95e54f2a9a86570e3fb794c40ea2957e04ed",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xd424c461743B86a7475bC281F9e65226752b49B9",
+      "txHash": "0xc8193af16bd3118a38996b0aa113f7109f4a2225a56c8218b443748b86359c92",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xcc635D91722C3ABA6FCF3E8FEbb603AAc7741C64",
+      "txHash": "0x677fa46a4a53d5d534596a5aa703ee01509261059507a0cdba11d296081e2384",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xCFC8b05040BD460C7DB9Ac4B80eDECE2b968775a",
+      "txHash": "0xb89608d8e1bbcf6d1db96bdd3a0e8b4207a9965667b088c0a1880db6b0f8fe41",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x5681c1590151C58ec529976038ba5CB54043Dfc9",
+      "txHash": "0xee74fcbe589cc64a1f52a09e68fb802551ef346bac094ae047a339443f23360b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x22a3C5b3AA5D20Ec4D25dfd0771d2BAd13EF87C3",
+      "txHash": "0xc5ad32ca95659e35ebba3d444dc92af0744f916dcde9247bffd9da8e73a25539",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x658D54046589d0DaC958C8C958df5eD0247b7844",
+      "txHash": "0x3b21727f8b50f60dd938951cac34fd9c2aafbb4fe28ebe40430b0da55ad6a80f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x6d8E9FD42B567565f46780F966e773b93B275EfB",
+      "txHash": "0x242605b335482e1430d77c91960fc8d5b3d1262d1e7cff2b50174077b7436e10",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x76B6298cC946C1015d6df39029Aa7aB2263eD67a",
+      "txHash": "0x611f38d3bcfb701c4da7e528f4382f3a5e0f9d670e9641ebdb9b9af3ce014162",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x46C5357F9F389e91844397cA34E0AC07BC3a5017",
+      "txHash": "0x1f788e5283bef7671364dc9d7d09e73a81dfc0e130c4de68e7c42877f80da0db",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x2826FD97cE2E68cd3ccd67B6e7FB3c1d684DB0f7",
+      "txHash": "0x7759dad90a236598e609b7f91f25dc5d4ce309edd8a66f39ef7a5078d407d044",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xFE6F6D3445815C70b305A921e02a89C17bf54FaD",
+      "txHash": "0xbb6f69a4b59fb89daacbbad88eb85239d06d90bd54d63bd31f64bace1d172bc1",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x3fFEAf148cD94E56CF8CaD982c1ad43692e26f3b",
+      "txHash": "0xc2822def6e5433aa0861abca0bd3e674c5c3ba0f44b2a100ec56f9edba4d3cd0",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xD5E323c8214f0da7b54A52126db1c9F5909Ef7D0",
+      "txHash": "0x0355e70724f186a03cf8e00359030e35d6725d4b982c2a69976a9469ad71b205",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4B919043764d673aD967392A9Ade4819697F3648",
+      "txHash": "0x06efeb63e6361ec2c1523b10387c472b7dee8cbab5385208e9561b2e64607f9b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xb8fDCa8Fa54bD248A1195625a339207a13B89bE4",
+      "txHash": "0x45541470913c35d08d3aeedb57abbf1b5ba7b66ed1983d1bda20a598b64013a6",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x16Ca404AB0705F5a7ead5FCF4EdFEA562eed9127",
+      "txHash": "0xffbaf109a4494d9c749c82113c4d70314305501407743fa94a704934833e9443",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x26111f8e49C2bDB7071A1566A428B7dd51840B7A",
+      "txHash": "0x19e81df424b66b4e4994d03d48d789118e60b78543e4d230faef444dee46a3f5",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x5652fDA7e1cD50aA5b3aDBCAE131252C4B61E7fD",
+      "txHash": "0xe03a50014c5db8f45ebe76d607db8b07df7d2f6ae24f8d58cbcda388d6e4b3ae",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x831AB8A26DF3EE168315B9cF1d3472921860A020",
+      "txHash": "0xf07c88f4a240ab5782fa432d4d5cfd3f9fa17da55f64bfba4eb02c072e7a5934",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x0E518dBf7C94315824061bd7746d270D7426Be00",
+      "txHash": "0x3e3aa105166f3ea55f07d429f6d73f1a2434d34ee88667e259cf6b7857be6ff5",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x6D87Fa59B2Ea5E66b1566722e47b01ab0F008eEF",
+      "txHash": "0x96a013af8cfb281d511f6f3e38e3824f7f35204163407d97aacb6099484f4bcf",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x7Cfb8B77F912ba73e3c74Cb59D932a4CC32b497A",
+      "txHash": "0x66dc3c72571dce0eb045da05348314b1f2e6860cf05d1e8312ddc85bd1d819ff",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x7CD3722DdEB507e14d17d1b1008cB1cD3605224f",
+      "txHash": "0xc3675ef7f124e06fa2804196c3c64dc323a13c0556185471f13e22acb1cfd1ef",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xB37911981418f69373413A8b6C968Fdc64B5c436",
+      "txHash": "0xbf92e9deaa445383c7ba910eb20b4310d957af0b301b9ffd2ebb3f2659abbee3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xb439f59DE1C8834a7d5d00F7891FAeEa42f6C94e",
+      "txHash": "0x4f946c8b941aca04471f88ff3bfdfdc30ee13b630efb938c38d0525923175c3d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xC6d570790afa005AaB2184AEC8b96a4ce6ad843d",
+      "txHash": "0x150d9ecd4f11cb77ce4cc07e63864b0b9fa547265674de6f2a37de0bd95a8f6b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x2A27f0e3621b786bc99cC010E6FFcC5e68270885",
+      "txHash": "0x448866d279d3649e04ab4859eb7ceddf826e3a55c3d11671897363fe4be955c4",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x05cd9dEeb89fd567646157420B30D7D7cE5617b1",
+      "txHash": "0x8acd5d3396b356bc8e0f8b785bf27362b712a4ff3ee60a083401b85662b5323d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x540a696f44f7C289B9D1c020859A7E0eF942A80A",
+      "txHash": "0xe51f4d6de259456be22b2cf2c859cc990744598ccc767871ebd3ebfaf9411cca",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xFe984639Acb1678ECcdC4AFA3EDC8dDC8D47b9d9",
+      "txHash": "0x8a97de6ae601b9139ba67a94544ae0c8bbbc698a276f50d76257bd330fb5a968",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x78eb6f87f8950fB4d86254C08A82820Ee4124c84",
+      "txHash": "0x9eddd11057959a0805d4da44cda01ecd4678667c1b16c7be7c935dd32338cfec",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xe43b5c1AC777614105DfcA0398eA075DcA71dF03",
+      "txHash": "0x8667c7079e245b61e5bc04bde849261f550b630941b8d64add682b3870ce0104",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x54fB2895C4465f9326E06B92887B7daBDc6643b6",
+      "txHash": "0x47d190c4f4fb7919856c02e25ec757e76abd48b53e6c2cc0d7508849c75e2b62",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x26bCF6a3b41906c52229818ad1B4911a3F9aF826",
+      "txHash": "0x554cc19b45b47bbb21819c37d1a2cf5c139345ffa4f0e64e6c375c081e7363f1",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xdC81Ba4D3030834FC6397B105C3f527E5c4C76e0",
+      "txHash": "0x366ae51b314d9c348f512eaa901d41ad69a95dad7d25c8cb7b6a316219b1a2e1",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x279e1A706E9c00290A9928Bb3F79F4C27B5e27F2",
+      "txHash": "0x43d24d4e3ea70a49f0b69a5a3ff2fdf78259d7924f936dd8de2b70ea5d11f6f3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x49ca4DB7d8e56A6a673C7F8588504d33531C41a9",
+      "txHash": "0x853cd86acbe3a1d8b267fa2ea2a70a875c341e9f821479b6347d8863dec0cecb",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x858e4DB8C96EacD6e14Fdd95eF9Da572555ED714",
+      "txHash": "0x08cc536d1d10311d765299dcb64884f9fddbcf030730b919d1628af913e7d4c3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xC9ecde2F256ecc657e20798292FA1729acbe3b81",
+      "txHash": "0x29d992fce2ad3f5773972658e6f793152258e12ebf11d97327420e173f626b69",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xBf39a208C1Bc6AcE9Dff303F24F6a848753eBf88",
+      "txHash": "0xcff65c508bab7beaa8bdd0591e07fc04512f1dda36955060fae39451951ab364",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4B8154B63B36B10F7Ed0E96Bb514741819f6A75d",
+      "txHash": "0x544ec3785362ac9fbea4de037fb05aa7a7fe7db0ad248cc4d4ca933bb1a60397",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x0777810997357BB0385c8B2EF0A975646e25fAE2",
+      "txHash": "0xa495d39aeee0d296fb57c0c5ab5b10deacf949df7b71eab7af4a32bf216a2329",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x97d2f171Bc67AD703F72fd0Af34bB085eab01c30",
+      "txHash": "0xb93ff214f819b40e70c717201ee42b141b0705b3243adc9b4ae6e99b0ef7e96c",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x86Cc72d628062cc3ae6f5A0176105a58615d9b73",
+      "txHash": "0x8c80c9c547ecc18e9f6ba0d05e50cfea74e05301d32d8b99f59d46b7a6f7e3bf",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xDbc2019B32092350e64BEB03535CeFf70A810399",
+      "txHash": "0x30cd68a1f9af2322a9241b3edd86ce0ae1d0b3ccacf4c7b76524b2a2cc4aa406",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x0B1c273CE06670CfC37309aefC8aA793C9A6224c",
+      "txHash": "0x61862a105c441ebf54cadcf9a26678b859c72a8268609b268853e764dd83017e",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x1B7B3403f3538578E027dA3e1CacdF89075bcFAF",
+      "txHash": "0x7d40c6ad4cafb51d1b17f16648482fbee95466d7c8d6a58d4d57b9fdfad5b2db",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x25A19076b4674371E85Ba7C7233fab6B96676710",
+      "txHash": "0x4fb7d869be04f584ac4f398feb52f82760d3286b02a48c4925b657036d42ce78",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xb316581CA3Af533141ab2386a4a70aD0124BaFB0",
+      "txHash": "0xee63ec7cf5fc1f0103188c202caf3796981eac70c7c899f6aa99b8bc2a5c1d4c",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xbE265A6E465510dc36d2d19cedb539500ac97E72",
+      "txHash": "0xcbd2d324a68f50dd5ea026cd91d306df6a4b5b07a751667135199b36bf922ca6",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x6B999b9ed0603f0EE7E4577Bf7FB4e237CE1607b",
+      "txHash": "0xb8930f4fd33ff3f2502fbf30fe895eebf5cd8f8a72a3d9e814ca54e5f49ccf0c",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "e7885ec9bdc7a91c86f4debaa6ea9352e7338851de37818f3905fa0f1c11e563": {
+      "address": "0xe3937e576Ff40e3859ECADe7E0b81a40E248cbbd",
+      "txHash": "0xc7cf57ef8ac64298608936d0407b40b1d31d154e548deaa843f5fe9ff9a0bbdd",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_uint8",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "contract": "BankV1",
+            "label": "rewardToken",
+            "type": "t_contract(ERC20)970",
+            "src": "..\\project:\\contracts\\BankV1.sol:8"
+          },
+          {
+            "contract": "BankV1",
+            "label": "timePeriod",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:9"
+          },
+          {
+            "contract": "BankV1",
+            "label": "startTime",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:10"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakingPool",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:11"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakers",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:12"
+          },
+          {
+            "contract": "BankV1",
+            "label": "owner",
+            "type": "t_address",
+            "src": "..\\project:\\contracts\\BankV1.sol:13"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r1",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:14"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r2",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:15"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r3",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:16"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakedAmount",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "..\\project:\\contracts\\BankV1.sol:17"
+          }
+        ],
+        "types": {
+          "t_contract(ERC20)970": {
+            "label": "contract ERC20"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "a2cb23080c866e75dc6f87b74924f85e59477ebb8e87512b0ed2acebfe3bbf7a": {
+      "address": "0x0EAE43e1BbFDB8eAe0Ab01678dCB028206ADa5E9",
+      "txHash": "0x875a64df6395e1562bba9a68013351a46b11f9ec6774cb4a9bb926a7a4d6bd97",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_uint8",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "contract": "BankV1",
+            "label": "rewardToken",
+            "type": "t_contract(ERC20)970",
+            "src": "..\\project:\\contracts\\BankV1.sol:9"
+          },
+          {
+            "contract": "BankV1",
+            "label": "timePeriod",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:10"
+          },
+          {
+            "contract": "BankV1",
+            "label": "startTime",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:11"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakingPool",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:12"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakers",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:13"
+          },
+          {
+            "contract": "BankV1",
+            "label": "owner",
+            "type": "t_address",
+            "src": "..\\project:\\contracts\\BankV1.sol:14"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r1",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:15"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r2",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:16"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r3",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:17"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakedAmount",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "..\\project:\\contracts\\BankV1.sol:19"
+          }
+        ],
+        "types": {
+          "t_contract(ERC20)970": {
+            "label": "contract ERC20"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "d68fed69907c95c574379cfe7ed6ca2638849fbfac00211a56295952c47741df": {
+      "address": "0xC24C0372096232F424ae4d299bfCF028a1cfFef9",
+      "txHash": "0xa028959a633112bbf84d133aca674e55b439d6e1852ec850cd2802d2a17930ad",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_uint8",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "contract": "BankV1",
+            "label": "rewardToken",
+            "type": "t_contract(ERC20)970",
+            "src": "..\\project:\\contracts\\BankV1.sol:9"
+          },
+          {
+            "contract": "BankV1",
+            "label": "timePeriod",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:10"
+          },
+          {
+            "contract": "BankV1",
+            "label": "startTime",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:11"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakingPool",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:12"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakers",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:13"
+          },
+          {
+            "contract": "BankV1",
+            "label": "owner",
+            "type": "t_address",
+            "src": "..\\project:\\contracts\\BankV1.sol:14"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r1",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:15"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r2",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:16"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r3",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:17"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakedAmount",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "..\\project:\\contracts\\BankV1.sol:19"
+          }
+        ],
+        "types": {
+          "t_contract(ERC20)970": {
+            "label": "contract ERC20"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "0ba18566cae8c7c7764318c364f5ea483e92874db8378083bc7448d19336500b": {
+      "address": "0xF7B54F025B81dAbF60348a8dc5CD1a0Ab9D1F275",
+      "txHash": "0x7bbd339413bc97661691ce6906d625a941ba558123b4994c5e61c9be3ce5df65",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_uint8",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "contract": "BankV1",
+            "label": "rewardToken",
+            "type": "t_contract(ERC20)970",
+            "src": "..\\project:\\contracts\\BankV1.sol:9"
+          },
+          {
+            "contract": "BankV1",
+            "label": "timePeriod",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:10"
+          },
+          {
+            "contract": "BankV1",
+            "label": "startTime",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:11"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakingPool",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:12"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakers",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:13"
+          },
+          {
+            "contract": "BankV1",
+            "label": "owner",
+            "type": "t_address",
+            "src": "..\\project:\\contracts\\BankV1.sol:14"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r1",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:15"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r2",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:16"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r3",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:17"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakedAmount",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "..\\project:\\contracts\\BankV1.sol:19"
+          }
+        ],
+        "types": {
+          "t_contract(ERC20)970": {
+            "label": "contract ERC20"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "ae4feb2e4d8fcb0b80a082c8439bd90229c7ad01c0eed6553a96f8fa8afbef19": {
+      "address": "0xAF7A6c1aF3ADf87De0eabA9Cbc3566a9F29321AC",
+      "txHash": "0x2964a473db2a31cfe89ec73e75682c7249e0b75e5e6351d3655ea104f7ca6b63",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_uint8",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "contract": "BankV1",
+            "label": "rewardToken",
+            "type": "t_contract(ERC20)970",
+            "src": "..\\project:\\contracts\\BankV1.sol:9"
+          },
+          {
+            "contract": "BankV1",
+            "label": "timePeriod",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:10"
+          },
+          {
+            "contract": "BankV1",
+            "label": "startTime",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:11"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakingPool",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:12"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakers",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:13"
+          },
+          {
+            "contract": "BankV1",
+            "label": "owner",
+            "type": "t_address",
+            "src": "..\\project:\\contracts\\BankV1.sol:14"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r1",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:15"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r2",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:16"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r3",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:17"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakedAmount",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "..\\project:\\contracts\\BankV1.sol:19"
+          }
+        ],
+        "types": {
+          "t_contract(ERC20)970": {
+            "label": "contract ERC20"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "b0223ea25155f9a081673b9ffd4b11fd33647939bbe11365dab7f4ee62fa74b8": {
+      "address": "0xcdC8CcBD37313434DA9C76d0D443c2E5b6531739",
+      "txHash": "0x5d0687822087e451077f2bbc0f331d53a5630e63e242e5a419e9bd9376244501",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_uint8",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "contract": "BankV1",
+            "label": "rewardToken",
+            "type": "t_contract(ERC20)970",
+            "src": "..\\project:\\contracts\\BankV1.sol:9"
+          },
+          {
+            "contract": "BankV1",
+            "label": "timePeriod",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:10"
+          },
+          {
+            "contract": "BankV1",
+            "label": "startTime",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:11"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakingPool",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:12"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakers",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:13"
+          },
+          {
+            "contract": "BankV1",
+            "label": "owner",
+            "type": "t_address",
+            "src": "..\\project:\\contracts\\BankV1.sol:14"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r1",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:15"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r2",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:16"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r3",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:17"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakedAmount",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "..\\project:\\contracts\\BankV1.sol:19"
+          }
+        ],
+        "types": {
+          "t_contract(ERC20)970": {
+            "label": "contract ERC20"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "9faeb704d6e59256b07186827b99b2a306c9c5c45c9be7f8049e38aca04e1e09": {
+      "address": "0xbE65Af4E219A2E68Cd67bB3643Ad93004D570F4b",
+      "txHash": "0x745c6eb6d816c7b691afe7305d83a42c8a2b3743ff8c7443ad0958fb9737a569",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_uint8",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "contract": "BankV1",
+            "label": "rewardToken",
+            "type": "t_contract(ERC20)970",
+            "src": "..\\project:\\contracts\\BankV1.sol:9"
+          },
+          {
+            "contract": "BankV1",
+            "label": "timePeriod",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:10"
+          },
+          {
+            "contract": "BankV1",
+            "label": "startTime",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:11"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakingPool",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:12"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakers",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:13"
+          },
+          {
+            "contract": "BankV1",
+            "label": "owner",
+            "type": "t_address",
+            "src": "..\\project:\\contracts\\BankV1.sol:14"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r1",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:15"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r2",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:16"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r3",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:17"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakedAmount",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "..\\project:\\contracts\\BankV1.sol:19"
+          }
+        ],
+        "types": {
+          "t_contract(ERC20)970": {
+            "label": "contract ERC20"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "cf4e1ba86d106303143a1e9f82a31fc916868b1b97ba6989ec5fcc590539db20": {
+      "address": "0x0A7972EA33C4E2c833E91Dec0926C75Af2b28c96",
+      "txHash": "0x432306c4e63a387728a49f81cb06a3f6b895b819848c7b3bf494ba8b5bace641",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_uint8",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "contract": "BankV1",
+            "label": "rewardToken",
+            "type": "t_contract(ERC20)970",
+            "src": "..\\project:\\contracts\\BankV1.sol:9"
+          },
+          {
+            "contract": "BankV1",
+            "label": "timePeriod",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:10"
+          },
+          {
+            "contract": "BankV1",
+            "label": "startTime",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:11"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakingPool",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:12"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakers",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:13"
+          },
+          {
+            "contract": "BankV1",
+            "label": "owner",
+            "type": "t_address",
+            "src": "..\\project:\\contracts\\BankV1.sol:14"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r1",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:15"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r2",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:16"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r3",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:17"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakedAmount",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "..\\project:\\contracts\\BankV1.sol:19"
+          }
+        ],
+        "types": {
+          "t_contract(ERC20)970": {
+            "label": "contract ERC20"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "e6db7a2e3d7700fabd59681eb059ebaa567abbc42afcae68cc62a2faf67f649d": {
+      "address": "0xE14D9140037de2Ebe15B1c067E5cE846119FC60B",
+      "txHash": "0x0c4974de613b722b5ab71b09d91ccb079f49a6f166566614d7c4ff60f9fee577",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_uint8",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "contract": "BankV1",
+            "label": "rewardToken",
+            "type": "t_contract(ERC20)970",
+            "src": "..\\project:\\contracts\\BankV1.sol:9"
+          },
+          {
+            "contract": "BankV1",
+            "label": "timePeriod",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:10"
+          },
+          {
+            "contract": "BankV1",
+            "label": "startTime",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:11"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakingPool",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:12"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakers",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:13"
+          },
+          {
+            "contract": "BankV1",
+            "label": "owner",
+            "type": "t_address",
+            "src": "..\\project:\\contracts\\BankV1.sol:14"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r1",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:15"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r2",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:16"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r3",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:17"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakedAmount",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "..\\project:\\contracts\\BankV1.sol:19"
+          }
+        ],
+        "types": {
+          "t_contract(ERC20)970": {
+            "label": "contract ERC20"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "1bb70f849e9a5b13f519ae43b956656f7c2f43630cce9c34f1e59e86d709c35b": {
+      "address": "0x02A785b2c9249276741A4279fCb7f0175B697cAb",
+      "txHash": "0x41e56c8e9e2b017bd44995852ddf2512f8e455342b4be2efc733d0fd25321e2d",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_uint8",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "contract": "BankV1",
+            "label": "rewardToken",
+            "type": "t_contract(ERC20)970",
+            "src": "..\\project:\\contracts\\BankV1.sol:9"
+          },
+          {
+            "contract": "BankV1",
+            "label": "timePeriod",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:10"
+          },
+          {
+            "contract": "BankV1",
+            "label": "startTime",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:11"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakingPool",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:12"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakers",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:13"
+          },
+          {
+            "contract": "BankV1",
+            "label": "owner",
+            "type": "t_address",
+            "src": "..\\project:\\contracts\\BankV1.sol:14"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r1",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:15"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r2",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:16"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r3",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:17"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakedAmount",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "..\\project:\\contracts\\BankV1.sol:19"
+          }
+        ],
+        "types": {
+          "t_contract(ERC20)970": {
+            "label": "contract ERC20"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    },
+    "ea2a4c3a93d0d4220f8368ea82f9b7cfd557f24fd3ee5a0efd787ee6097c03f0": {
+      "address": "0x1dd0e1158CE9a452d1123934096eC59A4bE67132",
+      "txHash": "0x9a56b3818d944e3d0379775a99fd5cb08fb1dc3126e43164067441418cd54598",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_uint8",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "contract": "BankV1",
+            "label": "rewardToken",
+            "type": "t_contract(ERC20)970",
+            "src": "..\\project:\\contracts\\BankV1.sol:9"
+          },
+          {
+            "contract": "BankV1",
+            "label": "timePeriod",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:10"
+          },
+          {
+            "contract": "BankV1",
+            "label": "startTime",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:11"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakingPool",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:12"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakers",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:13"
+          },
+          {
+            "contract": "BankV1",
+            "label": "owner",
+            "type": "t_address",
+            "src": "..\\project:\\contracts\\BankV1.sol:14"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r1",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:15"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r2",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:16"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r3",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:17"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakedAmount",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "..\\project:\\contracts\\BankV1.sol:19"
+          }
+        ],
+        "types": {
+          "t_contract(ERC20)970": {
+            "label": "contract ERC20"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    }
+  }
+}
