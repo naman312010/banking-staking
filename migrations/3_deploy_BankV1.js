@@ -1,7 +1,7 @@
 const { deployProxy } = require('@openzeppelin/truffle-upgrades');
 
-var token = artifacts.require("RewardToken");
-var BankV1 = artifacts.require("BankV1");
+const token = artifacts.require("RewardToken");
+const BankV1 = artifacts.require("BankV1");
 
 module.exports = async function (deployer) {
     //params: [token_contract_address, time_period_in_seconds, total_reward_pool]

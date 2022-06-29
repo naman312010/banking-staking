@@ -1,0 +1,117 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0x74afF5EcdD11E2e054a99c904617722992613326",
+    "txHash": "0x3ee46f030eec2b7eb066658e8c4cfa85fd4d7347a9665bdf669869aa1e476d96"
+  },
+  "proxies": [
+    {
+      "address": "0x752B3534c3B0Dbcd344A4e3C99EAaCA9b1D6D185",
+      "txHash": "0xa8feffbdd7e1b12e4d24e81a440f26504474893b2fef56278f2bde1d0eb315ef",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "16820b9ee14fe89d31ee1f449ed1689f1c1b82b67386c9e76605a2982dd5f4d8": {
+      "address": "0x619509c436CcA9F1C6e6211Ae74812c62d55f4A6",
+      "txHash": "0x01bb6e0fbbb6ad3f86ae724f3c5a5a7ad0198f924dce013bc6709df1dcd2ebd7",
+      "layout": {
+        "storage": [
+          {
+            "contract": "Initializable",
+            "label": "_initialized",
+            "type": "t_uint8",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:62",
+            "retypedFrom": "bool"
+          },
+          {
+            "contract": "Initializable",
+            "label": "_initializing",
+            "type": "t_bool",
+            "src": "..\\@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:67"
+          },
+          {
+            "contract": "BankV1",
+            "label": "rewardToken",
+            "type": "t_contract(ERC20)970",
+            "src": "..\\project:\\contracts\\BankV1.sol:9"
+          },
+          {
+            "contract": "BankV1",
+            "label": "timePeriod",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:10"
+          },
+          {
+            "contract": "BankV1",
+            "label": "startTime",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:11"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakingPool",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:12"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakers",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:13"
+          },
+          {
+            "contract": "BankV1",
+            "label": "owner",
+            "type": "t_address",
+            "src": "..\\project:\\contracts\\BankV1.sol:14"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r1",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:15"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r2",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:16"
+          },
+          {
+            "contract": "BankV1",
+            "label": "r3",
+            "type": "t_uint256",
+            "src": "..\\project:\\contracts\\BankV1.sol:17"
+          },
+          {
+            "contract": "BankV1",
+            "label": "stakedAmount",
+            "type": "t_mapping(t_address,t_uint256)",
+            "src": "..\\project:\\contracts\\BankV1.sol:19"
+          }
+        ],
+        "types": {
+          "t_contract(ERC20)970": {
+            "label": "contract ERC20"
+          },
+          "t_uint256": {
+            "label": "uint256"
+          },
+          "t_address": {
+            "label": "address"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)"
+          },
+          "t_uint8": {
+            "label": "uint8"
+          },
+          "t_bool": {
+            "label": "bool"
+          }
+        }
+      }
+    }
+  }
+}
