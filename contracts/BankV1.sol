@@ -109,7 +109,7 @@ contract BankV1 is Initializable {
             else {
                 r3 -= (reward - r1 - r2);
                 r2 = 0;
-                r3 = 0;
+                r1 = 0;
             }
         }
         return (reward);
