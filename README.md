@@ -2,7 +2,7 @@
 A simple Dapp that demonstrates banking and staking using on-chain ERC-20 tokens. Supports openzeppelin/truffle-upgrades library
 
 ## Deployed contacts
-RewardToken: https://rinkeby.etherscan.io/address/0xf305E044011850bf58101d432040D99a75afa7e7#code
+RewardToken: https://rinkeby.etherscan.io/address/0xf305E044011850bf58101d432040D99a75afa7e7#code <br>
 BankV1 proxy: https://rinkeby.etherscan.io/address/0x752B3534c3B0Dbcd344A4e3C99EAaCA9b1D6D185#code
 
 ## Get started:
